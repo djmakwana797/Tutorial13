@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial13</string>
+    <string name="enter_message">Enter message</string>
+    <string name="enter_phone">Enter Phone</string>
+</resources>
